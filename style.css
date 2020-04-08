@@ -17,3 +17,20 @@ div{
     border: 30px solid blue;
     
 }
+table{
+    border:2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+th{
+    border: 1px solid red;
+    background-color: blue;
+}
+td{
+    border:1px solid blue;
+    
+}
+th,td{
+    padding:5px;
+    text-align: center;
+}
